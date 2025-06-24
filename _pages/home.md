@@ -14,7 +14,7 @@ feature_row:
     url: "https://www.google.com/"
   - image_path: /assets/images/yoyo.JPG
     alt: "Bulk-Manufactured Yo-yos"
-    title: "Injection Molded Yo-yos"
+    title: "Bulk-Manufactured Yo-yos"
     url: "https://www.google.com/"
   - image_path: /assets/images/Castle.jpeg
     alt: "Three-Story Tall Castle"
