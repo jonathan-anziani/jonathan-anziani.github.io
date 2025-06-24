@@ -22,7 +22,7 @@
         {% endif %}
 
         <div class="archive__item-body">
-          <a href="https://www.w3schools.com/html/">
+          <a href="{{ f.url | relative_url }}">
             {% if f.title %}
               <h2 class="archive__item-title">{{ f.title }}</h2>
             {% endif %}
