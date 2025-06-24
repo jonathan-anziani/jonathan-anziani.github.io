@@ -4,7 +4,7 @@ permalink: /
 hidden: true
 
 feature_row:
-  - image_path: /assets/images/mm-customizable-feature.png
+  - image_path: /assets/images/Massage.jpg
     alt: "Force-Controlled Massage Therapy"
     title: "Force-Controlled Massage Therapy"
     url: "https://www.google.com/"
