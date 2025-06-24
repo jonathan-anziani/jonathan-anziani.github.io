@@ -16,7 +16,7 @@ feature_row:
     alt: "Injection Molded Yo-yos"
     title: "Injection Molded Yo-yos"
     url: "https://www.google.com/"
-  - image_path: /assets/images/President_Barack_Obama.jpg
+  - image_path: /assets/images/Castle.jpeg
     alt: "Three-Story Tall Castle"
     title: "Three-Story Tall Castle"
     url: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/President_Barack_Obama.jpg/960px-President_Barack_Obama.jpg"
