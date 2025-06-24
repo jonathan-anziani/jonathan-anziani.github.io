@@ -4,10 +4,6 @@ permalink: /
 hidden: true
 
 feature_row:
-  - image_path: /assets/images/President_Barack_Obama.jpg
-    alt: "Glowing Performance Prop"
-    title: "Glowing Performance Prop"
-    url: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/President_Barack_Obama.jpg/960px-President_Barack_Obama.jpg"
   - image_path: /assets/images/mm-customizable-feature.png
     alt: "Force-Controlled Massage Therapy"
     title: "Force-Controlled Massage Therapy"
