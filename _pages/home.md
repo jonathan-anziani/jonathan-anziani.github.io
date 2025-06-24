@@ -12,7 +12,7 @@ feature_row:
     alt: "Underwater Vison Augmentation"
     title: "Underwater Vison Augmentation"
     url: "https://www.google.com/"
-  - image_path: /assets/images/mm-free-feature.png
+  - image_path: /assets/images/yoyo.JPG
     alt: "Injection Molded Yo-yos"
     title: "Injection Molded Yo-yos"
     url: "https://www.google.com/"
