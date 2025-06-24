@@ -7,31 +7,23 @@ feature_row:
   - image_path: /assets/images/mm-customizable-feature.png
     alt: "Force-Controlled Massage Therapy"
     title: "Force-Controlled Massage Therapy"
-    excerpt: "Everything from the menus, sidebars, comments, and more can be configured or set with YAML Front Matter."
     url: "https://www.google.com/"
-    btn_class: "btn--primary"
-    btn_label: "Learn more"
   - image_path: /assets/images/mm-responsive-feature.png
     alt: "Underwater Vison Augmentation"
     title: "Underwater Vison Augmentation"
-    excerpt: "Built with HTML5 + CSS3. All layouts are fully responsive with helpers to augment your content."
     url: "https://www.google.com/"
-    btn_class: "btn--primary"
-    btn_label: "Learn more"
   - image_path: /assets/images/mm-free-feature.png
-    alt: "100% free"
-    title: "100% free"
-    excerpt: "Free to use however you want under the MIT License. Clone it, fork it, customize it... whatever!"
+    alt: "Injection Molded Yo-yos"
+    title: "Injection Molded Yo-yos"
     url: "https://www.google.com/"
-    btn_class: "btn--primary"
-    btn_label: "Learn more"
   - image_path: /assets/images/President_Barack_Obama.jpg
-    alt: "obama"
-    title: "obama"
-    excerpt: "obama"
+    alt: "Three-story Tall Castle"
+    title: "Three-story Tall Castle"
     url: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/President_Barack_Obama.jpg/960px-President_Barack_Obama.jpg"
-    btn_class: "btn--primary"
-    btn_label: "Learn more"       
+  - image_path: /assets/images/President_Barack_Obama.jpg
+    alt: "3D-Printed Rocket Toy"
+    title: "3D-Printed Rocket Toy"
+    url: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/President_Barack_Obama.jpg/960px-President_Barack_Obama.jpg"
 ---
 
 {% include feature_row %}
