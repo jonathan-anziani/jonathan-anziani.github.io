@@ -25,7 +25,7 @@ feature_row:
     url: "/docs/license/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
-  - image_path: /assets/images/mm-free-feature.png
+  - image_path: /assets/images/President_Barack_Obama.jpg
     alt: "obama"
     title: "obama"
     excerpt: "obama"
