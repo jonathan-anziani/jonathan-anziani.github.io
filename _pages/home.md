@@ -13,8 +13,8 @@ feature_row:
     title: "Underwater Vison Augmentation"
     url: "https://www.google.com/"
   - image_path: /assets/images/yoyo.JPG
-    alt: "Bulk-Manufactured Yo-yos"
-    title: "Bulk-Manufactured Yo-yos"
+    alt: "Bulk-Manufactured YoYos"
+    title: "Bulk-Manufactured YoYos"
     url: "https://www.google.com/"
   - image_path: /assets/images/Castle.jpeg
     alt: "Three-Story Tall Castle"
