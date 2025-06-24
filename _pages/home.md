@@ -29,7 +29,7 @@ feature_row:
     alt: "obama"
     title: "obama"
     excerpt: "obama"
-    url: "/docs/license/"
+    url: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/President_Barack_Obama.jpg/960px-President_Barack_Obama.jpg"
     btn_class: "btn--primary"
     btn_label: "Learn more"       
 ---
