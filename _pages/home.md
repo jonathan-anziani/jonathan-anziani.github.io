@@ -7,7 +7,7 @@ feature_row:
   - image_path: /assets/images/Massage.jpg
     alt: "Force-Controlled Massage Therapy"
     title: "Force-Controlled Massage Therapy"
-    url: "https://www.google.com/"
+    url: /_posts/2025-06-25-force-controlled-massage-therapy.md
   - image_path: /assets/images/Marlin.png
     alt: "Underwater Vison Augmentation"
     title: "Underwater Vison Augmentation"
