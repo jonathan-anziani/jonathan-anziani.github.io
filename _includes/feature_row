@@ -22,7 +22,7 @@
         <div class="archive__item-body">
           <a href="{{ f.url | relative_url }}" style="color:rgba(111,119,125,1)">
             {% if f.title %}
-              <h2 class="archive__item-title">{{ f.title }}</h2>
+              <h3 class="archive__item-title">{{ f.title }}</h3>
             {% endif %}
           </a>
           {% if f.excerpt %}
