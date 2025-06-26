@@ -4,15 +4,13 @@ header:
   overlay_image: /assets/images/Foot_Dorsiflexed_2985W.jpg
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
   actions:
-  excerpt:
+  excerpt: " "
 categories:
   - Uncategorized
 tags:
   - image
 last_modified_at: 2018-03-20T16:00:52-04:00
 ---
-
-bruh
 
 For MIT's Medical Device Design class, I worked in a team of seven to design a force-controlled automated massage device that measures muscle stiffness in real-time. Professional massages increase athletic performance and recovery but are inaccessible due to demand exceeding the number of trained clinicians, so our sports-industry sponsor proposed developing a device that can replicate these techniques.
 
