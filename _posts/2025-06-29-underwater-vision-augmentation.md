@@ -1,5 +1,5 @@
 ---
-title: "Force-Controlled Massage Therapy"
+title: "Underwater Vision Augmentation (MARLIN)"
 tagline: " "
 header:
   overlay_image: /assets/images/Foot_Dorsiflexed_2985W.jpg
@@ -12,17 +12,16 @@ tags:
 last_modified_at: 2018-03-20T16:00:52-04:00
 ---
 
-For MIT's Medical Device Design class, I worked in a team of seven to design a force-controlled automated massaging device that measures muscle stiffness in real-time. Professional massages increase athletic performance and recovery but are inaccessible due to the high demand exceeding the number of trained clinicians, so our project sponsor proposed developing a device that can replicate these techniques.
+This underwater vision assistance device was designed to allow commercial divers see underwater in low-light, high-particulate situations.
 
-The device consists of three key components: a scissor lift-inspired mechanism that applies force onto the limb, a load cell that measures the force applied, and a linear stage that moves the stage along the limb. By measuring the force on the limb and knowing the distance pressed into the muscle, real-time muscle stiffness can be measured. Future iterations of this project will implement closed-loop stiffness feedback control, replicating how a clinician can feel muscle stiffness during a massage.
+![before and after]({{ "/assets/images/mm-header-overlay-black-filter.jpg" | relative_url }})
 
-I was primarily responsible for the load analysis of the structure and the power transmission design. For the load analysis, I modeled the yeilding and buckling failure criterion using a spreadsheet to easily tabulate and communicate the calculations to teammates and project mentors. For the power transmission, I calculated the stepper motor torque and speed requirements needed to replicate the motion and force of a professional massage therapist we consulted for this project. With these specifications, I chose sufficient stepper motors for the linear stage and scissor lift and desgned a mounting part to integrate the motors into the rest of the system while preventing a structural collapse when reaching holding torque.
+Two cameras, a screen, and a pair of lenses are housed in a waterproof aluminum case designed to mount onto the industry standard Kirby-Morgan diving helmet.
 
+![breakout]({{ "/assets/images/mm-header-overlay-black-filter.jpg" | relative_url }})
 
+I mostly focused on the mechanical design and fabrication of the prototype. For the final prototype, I designed a component mounting bracket that minimizes overall product size while still being removable and replacable. I also designed a faceplate that would fit snugly with the faceshield of the Kirby-Morgan helmet, improving visual clarity by reducing the water gap. Additionally, I assisted the electrical sub-team by testing and choosing the final cameras used in the prototype based on hardware compatability.
 
-## Overlay filter
+![mount]({{ "/assets/images/mm-header-overlay-black-filter.jpg" | relative_url }})
 
-You can use it by specifying the opacity (between 0 and 1) of a black overlay like so:
-
-![transparent black overlay]({{ "/assets/images/mm-header-overlay-black-filter.jpg" | relative_url }})
 
