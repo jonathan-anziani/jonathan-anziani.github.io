@@ -1,5 +1,5 @@
 ---
-title: "Force-Controlled Massage Therapy"
+title: "Bulk Manufactured Yo-Yos"
 tagline: " "
 header:
   overlay_image: /assets/images/Foot_Dorsiflexed_2985W.jpg
@@ -12,24 +12,14 @@ tags:
 last_modified_at: 2018-03-20T16:00:52-04:00
 ---
 
-For MIT's Medical Device Design class, I worked in a team of seven to design a force-controlled automated massaging device that measures muscle stiffness in real-time. Professional massages increase athletic performance and recovery but are inaccessible due to the high demand exceeding the number of trained clinicians, so our project sponsor proposed developing a device that can replicate these techniques.
+50 yo-yos designed and manufactured for Manufacturing and Design II. Each half of the yo-yo consists of an injection molded ring and base press fit together, with a bearing and fidget spinner attathed to the ring. I designed the fidget spinner and with that I had to design the press-fit diameters between the ring, bearing, and fidget spinner.
 
-The device consists of three key components: a scissor lift-inspired mechanism that applies force onto the limb, a load cell that measures the force applied, and a linear stage that moves the stage along the limb. By measuring the force on the limb and knowing the distance pressed into the muscle, real-time muscle stiffness can be measured. Future iterations of this project will implement closed-loop stiffness feedback control, replicating how a clinician can feel muscle stiffness during a massage.
+![single yoyo]({{ "/assets/images/mm-header-overlay-black-filter.jpg" | relative_url }})
 
-![device moving gif]({{ "/assets/images/mm-header-overlay-black-filter.jpg" | relative_url }})
-
-I was primarily responsible for the load analysis of the structure and the power transmission design. For the load analysis, I modeled the yeilding and buckling failure criterion using a spreadsheet to easily tabulate and communicate the calculations to teammates and project mentors. For the power transmission, I calculated the stepper motor torque and speed requirements needed to replicate the motion and force measured from a massage clinician. With these specifications, I chose sufficient stepper motors for the linear stage and scissor lift and desgned a mounting part to integrate the motors into the rest of the system while preventing a structural collapse when reaching holding torque.
-
-![spreadsheet]({{ "/assets/images/mm-header-overlay-black-filter.jpg" | relative_url }})
-
-More detailed design and testing for this device can be read here.
+I was responsible for the CAD, CAM, and CNC milling of some of the molds, which were designed to take into account shrinkage of the injected plastic.
+![mold]({{ "/assets/images/mm-header-overlay-black-filter.jpg" | relative_url }})
+![CAM]({{ "/assets/images/mm-header-overlay-black-filter.jpg" | relative_url }})
+None of the press fits failed after a 4 foot drop test of all 50 yoyos as a result of our design tolerances.
 
 
-
-
-## Overlay filter
-
-You can use it by specifying the opacity (between 0 and 1) of a black overlay like so:
-
-![transparent black overlay]({{ "/assets/images/mm-header-overlay-black-filter.jpg" | relative_url }})
 
