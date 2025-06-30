@@ -8,6 +8,10 @@ feature_row:
     alt: "Force-Controlled Massage Therapy"
     title: "Force-Controlled Massage Therapy"
     url: "/uncategorized/force-controlled-massage-therapy/"
+  - image_path: /assets/images/Massage.jpg
+    alt: "Modeling CNC Energy Consumption"
+    title: "Force-Controlled Massage Therapy"
+    url: "/uncategorized/force-controlled-massage-therapy/"
   - image_path: /assets/images/Marlin.png
     alt: "Underwater Vison Augmentation"
     title: "Underwater Vison Augmentation"
