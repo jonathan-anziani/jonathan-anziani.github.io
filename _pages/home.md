@@ -12,7 +12,7 @@ feature_row:
     alt: "Modeling CNC Energy Consumption"
     title: "Modeling CNC Energy Consumption"
     url: "/uncategorized/force-controlled-massage-therapy/"
-  - image_path: /assets/images/Marlin.png
+  - image_path: /assets/images/Marlin.jpg
     alt: "Underwater Vison Augmentation"
     title: "Underwater Vison Augmentation"
     url: "/uncategorized/underwater-vision-augmentation/"
