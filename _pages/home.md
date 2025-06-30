@@ -11,7 +11,7 @@ feature_row:
   - image_path: /assets/images/Marlin.png
     alt: "Underwater Vison Augmentation"
     title: "Underwater Vison Augmentation"
-    url: "https://www.google.com/"
+    url: "/uncategorized/underwater-vision-augmentation/"
   - image_path: /assets/images/yoyo.JPG
     alt: "Bulk-Manufactured YoYos"
     title: "Bulk-Manufactured YoYos"
