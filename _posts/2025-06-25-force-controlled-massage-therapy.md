@@ -12,7 +12,7 @@ tags:
 last_modified_at: 2018-03-20T16:00:52-04:00
 ---
 
-For MIT's Medical Device Design class, I worked in a team of seven to design a force-controlled automated massaging device that measures muscle stiffness in real-time. Professional massages increase athletic performance and recovery but are inaccessible due to the high demand exceeding the number of trained clinicians, so our project sponsor proposed developing a device that can replicate these techniques.
+For MIT's Medical Device Design class, I worked in a team of seven to design a force-controlled automated massaging device that measures muscle stiffness in real-time.
 
 The device consists of three key components: a scissor lift-inspired mechanism that applies force onto the limb, a load cell that measures the force applied, and a linear stage that moves the stage along the limb. By measuring the force on the limb and knowing the distance pressed into the muscle, real-time muscle stiffness can be measured. Future iterations of this project will implement closed-loop stiffness feedback control, replicating how a clinician can feel muscle stiffness during a massage.
 
