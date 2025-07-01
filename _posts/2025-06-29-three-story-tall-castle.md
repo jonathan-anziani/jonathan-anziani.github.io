@@ -1,8 +1,8 @@
 ---
-title: "Force-Controlled Massage Therapy"
+title: "Three-Story Tall Castle"
 tagline: " "
 header:
-  overlay_image: /assets/images/Foot_Dorsiflexed_2985W.jpg
+  overlay_image: /assets/images/Castle.jpg
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
   actions:
 categories:
@@ -12,24 +12,10 @@ tags:
 last_modified_at: 2018-03-20T16:00:52-04:00
 ---
 
-For MIT's Medical Device Design class, I worked in a team of seven to design a force-controlled automated massaging device that measures muscle stiffness in real-time. Professional massages increase athletic performance and recovery but are inaccessible due to the high demand exceeding the number of trained clinicians, so our project sponsor proposed developing a device that can replicate these techniques.
+I was one of [X} project leads for the design, construction, and disassembly of a three-story tall wooden castle for MIT's freshman orientation. The structure is 44’x24’x24’ in size with four three-story tall towers, two two-person fixed angle rock climbing walls, and one one-person angle adjustable climbing wall.
 
-The device consists of three key components: a scissor lift-inspired mechanism that applies force onto the limb, a load cell that measures the force applied, and a linear stage that moves the stage along the limb. By measuring the force on the limb and knowing the distance pressed into the muscle, real-time muscle stiffness can be measured. Future iterations of this project will implement closed-loop stiffness feedback control, replicating how a clinician can feel muscle stiffness during a massage.
+![castle]({{ "/assets/images/Castle.jpg" | relative_url }})
 
-![device moving gif]({{ "/assets/images/mm-header-overlay-black-filter.jpg" | relative_url }})
+During the design phase, I used beam bending calculations, Finite Element Analysis, and existing structural engineering code to ensure the structure can handle loads from people standing, loads from people climbing, and loads from wind. Wind loads were caluated by researching referencing [Massachusettes regulations](https://www.mass.gov/doc/780016pt4pdf/download), and all calculations were validated by MIT Environmental Health and Safety as well as a contracted structural engineer before construction.
 
-I was primarily responsible for the load analysis of the structure and the power transmission design. For the load analysis, I modeled the yeilding and buckling failure criterion using a spreadsheet to easily tabulate and communicate the calculations to teammates and project mentors. For the power transmission, I calculated the stepper motor torque and speed requirements needed to replicate the motion and force measured from a massage clinician. With these specifications, I chose sufficient stepper motors for the linear stage and scissor lift and desgned a mounting part to integrate the motors into the rest of the system while preventing a structural collapse when reaching holding torque.
-
-![spreadsheet]({{ "/assets/images/mm-header-overlay-black-filter.jpg" | relative_url }})
-
-More detailed design and testing for this device can be read here.
-
-
-
-
-## Overlay filter
-
-You can use it by specifying the opacity (between 0 and 1) of a black overlay like so:
-
-![transparent black overlay]({{ "/assets/images/mm-header-overlay-black-filter.jpg" | relative_url }})
-
+During construction, I would train and direct over 100 students (primarily incoming students with no prior experience) on the measuring, cutting, and assembly of wood using power tools.
