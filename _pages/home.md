@@ -23,7 +23,7 @@ feature_row:
   - image_path: /assets/images/Castle.jpeg
     alt: "Three-Story Tall Castle"
     title: "Three-Story Tall Castle"
-    url: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/President_Barack_Obama.jpg/960px-President_Barack_Obama.jpg"
+    url: "/uncategorized/three-story-tall-castle/"
   - image_path: /assets/images/Rocket.jpg
     alt: "3D-Printed Rocket Toy"
     title: "3D-Printed Rocket Toy"
