@@ -1,4 +1,4 @@
----
+s---
 title: "Three-Story Tall Castle"
 tagline: " "
 header:
@@ -12,7 +12,7 @@ tags:
 last_modified_at: 2018-03-20T16:00:52-04:00
 ---
 
-I was one of [X} project leads for the design, construction, and disassembly of a three-story tall wooden castle for MIT's freshman orientation. The structure is 44’x24’x24’ in size with four three-story tall towers, two two-person fixed angle rock climbing walls, and one one-person angle adjustable climbing wall.
+I was apart of a small team of project leads overseeing the design, construction, and disassembly of a three-story tall wooden castle for MIT's freshman orientation. The structure is 44’x24’x24’ in size with four three-story tall towers, two two-person fixed angle rock climbing walls, and one one-person angle adjustable climbing wall.
 
 ![castle]({{ "/assets/images/Castle.jpg" | relative_url }})
 
