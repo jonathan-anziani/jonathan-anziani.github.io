@@ -1,5 +1,6 @@
 ---
-title: "Underwater Vision Augmentation (MARLIN)"
+title: "G-Code Based Toolpath Simulation for Predicting CNC Energy 
+Consumption "
 tagline: " "
 header:
   overlay_image: /assets/images/Foot_Dorsiflexed_2985W.jpg
