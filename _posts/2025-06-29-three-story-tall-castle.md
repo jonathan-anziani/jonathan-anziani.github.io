@@ -1,4 +1,4 @@
-s---
+---
 title: "Three-Story Tall Castle"
 tagline: " "
 header:
