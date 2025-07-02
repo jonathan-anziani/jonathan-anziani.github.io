@@ -14,9 +14,23 @@ last_modified_at: 2018-03-20T16:00:52-04:00
 
 This underwater vision assistance device was designed in a team of twelve to allow commercial divers see underwater in low-light, high-particulate situations.
 
-![before ]({{ "/assets/images/Marlin before.jpg" | relative_url }})
+![before ]({{ "" | relative_url }})
 
-![after ]({{ "/assets/images/marlin after.jpg" | relative_url }})
+![after ]({{ " | relative_url }})
+
+```yaml
+gallery2:
+  - url: https://flic.kr/p/8a6Ven
+    image_path: /assets/images/Marlin before.jpg
+    alt: "before"
+  - url: https://flic.kr/p/8a738X
+    image_path: /assets/images/marlin after.jpg
+    alt: "after"
+```
+
+```liquid
+{% raw %}{% include gallery id="gallery2" class="full" %}{% endraw %}
+```
 
 Two cameras, a screen, and a pair of lenses are housed in a waterproof aluminum case designed to mount onto the industry standard Kirby-Morgan diving helmet.
 
