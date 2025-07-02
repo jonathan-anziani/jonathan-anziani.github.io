@@ -18,7 +18,6 @@ This underwater vision assistance device was designed in a team of twelve to all
 
 ![after ]({{ " | relative_url }})
 
-```yaml
 gallery2:
   - url: https://flic.kr/p/8a6Ven
     image_path: /assets/images/Marlin before.jpg
@@ -26,11 +25,9 @@ gallery2:
   - url: https://flic.kr/p/8a738X
     image_path: /assets/images/marlin after.jpg
     alt: "after"
-```
 
-```liquid
 {% raw %}{% include gallery id="gallery2" class="full" %}{% endraw %}
-```
+
 
 Two cameras, a screen, and a pair of lenses are housed in a waterproof aluminum case designed to mount onto the industry standard Kirby-Morgan diving helmet.
 
