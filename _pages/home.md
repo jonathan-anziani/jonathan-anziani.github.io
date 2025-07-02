@@ -8,7 +8,7 @@ feature_row:
     alt: "Force-Controlled Massage Therapy"
     title: "Force-Controlled Massage Therapy"
     url: "/uncategorized/force-controlled-massage-therapy/"
-  - image_path: /assets/images/SEC graph.jpg
+  - image_path: /assets/images/pexels-daniel-smyth-83914874-10406128.jpg
     alt: "Modeling CNC Energy Consumption"
     title: "Modeling CNC Energy Consumption"
     url: "/uncategorized/modeling-cnc-energy-consumption/"
