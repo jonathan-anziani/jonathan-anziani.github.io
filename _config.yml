@@ -19,7 +19,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Jonathan Anziani's mechanical engineering design and fire spinning performance portfolio
 minimal_mistakes_skin: default
 search: false
-logo: /assets/images/bio-photo.jfif
+# logo: /assets/images/bio-photo.jfif
 
 # Build settings
 markdown: kramdown
