@@ -11,7 +11,7 @@ feature_row:
   - image_path: /assets/images/SEC graph.jpg
     alt: "Modeling CNC Energy Consumption"
     title: "Modeling CNC Energy Consumption"
-    url: "/assets/images/SEC graph.jpg"
+    url: "/uncategorized/modeling-cnc-energy-consumption/"
   - image_path: /assets/images/Marlin.jpg
     alt: "Underwater Vison Augmentation"
     title: "Underwater Vison Augmentation"
