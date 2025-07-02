@@ -9,8 +9,8 @@ sidebar:
     text: "**Massachusettes Institute of Technology** <br>  2021-2025 B.S. in Mechanical Engineering"
     nav:
       -label: "LinkedIn"
-        icon: "fab fa-fw fa-linkedin"
-        url: "https://www.linkedin.com/in/jonathan-anziani-101671201/"
+         icon: "fab fa-fw fa-linkedin"
+         url: "https://www.linkedin.com/in/jonathan-anziani-101671201/"
 ---
 
 Hello, I'm Jonathan Anziani!
