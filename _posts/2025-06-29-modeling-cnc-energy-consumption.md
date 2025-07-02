@@ -27,7 +27,7 @@ The model predicts the power consumption for a timestep by relating it to the si
 
 ![mount]({{ "/assets/images/mm-header-overlay-black-filter.jpg" | relative_url }})
 
-The full thesis with comparisons and sensitivity analyses can be found [here.]("/assets/images/mm-header-overlay-black-filter.jpg" | relative_url)
+The full thesis with comparisons and sensitivity analyses can be found [here.](/assets/images/mm-header-overlay-black-filter.jpg)
 
 
 
