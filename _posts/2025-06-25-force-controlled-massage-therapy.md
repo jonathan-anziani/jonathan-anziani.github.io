@@ -11,12 +11,21 @@ tags:
   - image
 last_modified_at: 2018-03-20T16:00:52-04:00
 gallery:
-  - url: /assets/images/Marlin before.jpg
-    image_path: /assets/images/Marlin before.jpg
-    alt: "before"
-  - url: /assets/images/marlin after.jpg
-    image_path: /assets/images/marlin after.jpg
-    alt: "after"
+  - url: /assets/images/massage moving.gif
+    image_path: /assets/images/massage moving.gif
+    alt: "device moving gif"
+gallery2:
+  - url: /assets/images/Massage_Exploded_View.jpg
+    image_path: /assets/images/Massage_Exploded_View.jpg
+    alt: "exploded"
+  - url: /assets/images/Massage.jpg
+    image_path: /assets/images/Massage.jpg
+    alt: "close"
+gallery3:
+  - url: /assets/images/Sample Spreadsheet.jpg
+    image_path: /assets/images/Sample Spreadsheet.jpg
+    alt: "spreadsheet"
+    
 ---
 
 For MIT's Medical Device Design class, I worked in a team of seven to design a force-controlled automated massaging device that measures muscle stiffness in real-time.
