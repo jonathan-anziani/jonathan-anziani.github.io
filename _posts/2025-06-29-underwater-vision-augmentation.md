@@ -11,10 +11,10 @@ tags:
   - image
 last_modified_at: 2018-03-20T16:00:52-04:00
 gallery:
-  - url: https://flic.kr/p/8a6Ven
+  - url: /assets/images/Marlin before.jpg
     image_path: /assets/images/Marlin before.jpg
     alt: "before"
-  - url: https://flic.kr/p/8a738X
+  - url: /assets/images/Marlin before.jpg
     image_path: /assets/images/marlin after.jpg
     alt: "after"
 ---
