@@ -17,15 +17,15 @@ For my undergraduate thesis, I developed a G-code based program in MATLAB that s
 
 This program functions by first reconstructing the toolpath from the G-code.
 
-![mount]({{ "/assets/images/mm-header-overlay-black-filter.jpg" | relative_url }})
+![toolpath generated]({{ "/assets/images/toolpath generated.jpg" | relative_url }})
 
 The simulation then runs a virtual endmill along the toolpath in a voxel mesh of the workpiece, replicating material removal.
 
-![mount]({{ "/assets/images/mm-header-overlay-black-filter.jpg" | relative_url }})
+![before and after simulation]({{ "/assets/images/before and after simulation.jpg" | relative_url }})
 
 The model predicts the power and specific energy consumption for a timestep by relating it to the simulated material removal rate and spindle speed using existing analytical models and machine-dependant power data. An example relation is shown below.
 
-![mount]({{ "/assets/images/mm-header-overlay-black-filter.jpg" | relative_url }})
+![power and specific energy graph]({{ "/assets/images/Power and specific energy relation.jpg" | relative_url }})
 
 The full thesis with comparisons and sensitivity analyses can be found [here.](/assets/images/mm-header-overlay-black-filter.jpg)
 
