@@ -1,6 +1,19 @@
 ---
 permalink: /about/
-title: "About"
+title: "About Me"
+author_profile: false
+sidebar:
+  - title: "Title"
+    image: "/assets/images/bio-photo.jfif"
+    image_alt: "Jonathan Anziani"
+    text: "**Massachusettes Institute of Technology** <br>  2021-2025 B.S. in Mechanical Engineering"
+    links:
+      - label: "Website"
+        icon: "fas fa-fw fa-link"
+        url: "https://"
+      - label: "LinkedIn"
+        icon: "fab fa-fw fa-linkedin"
+        url: "https://www.linkedin.com/in/jonathan-anziani-101671201/"
 ---
 
 Hello, I'm Jonathan Anziani!
