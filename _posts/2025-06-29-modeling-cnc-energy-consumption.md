@@ -3,7 +3,7 @@ title: "G-Code Based Toolpath Simulation for Predicting CNC Energy
 Consumption"
 tagline: " "
 header:
-  overlay_image: /assets/images/Foot_Dorsiflexed_2985W.jpg
+  overlay_image: /assets/images/Power and specific energy relation.jpg
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
   actions:
 categories:
