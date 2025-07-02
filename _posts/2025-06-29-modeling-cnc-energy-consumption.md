@@ -13,7 +13,7 @@ tags:
 last_modified_at: 2018-03-20T16:00:52-04:00
 ---
 
-For my undergraduate thesis, I developed a MATLAB-based program that runs through a CNC G-code file to simulate the material removal process and predict the energy consumption to machine the part. When analyzing a constant material removal rate milling operation, the average power prediction accuracy was shown to be 96.83%.
+For my undergraduate thesis, I developed a G-code based program in MATLAB that simulates the material removal process and predicts the energy consumption to machine the part. When analyzing a constant material removal rate milling operation, the average power prediction accuracy was shown to be 96.83%.
 
 This program functions by first reconstructing the toolpath from the G-code.
 
