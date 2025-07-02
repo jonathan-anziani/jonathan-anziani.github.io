@@ -5,6 +5,21 @@ header:
   overlay_image: /assets/images/Foot_Dorsiflexed_2985W.jpg
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
   actions:
+gallery:
+  -url: /assets/images/massage moving.gif
+   image_path: /assets/images/massage moving.gif
+   alt: "device moving gif"
+gallery2:
+  -url: /assets/images/Massage_Exploded_View.jpg
+   image_path: /assets/images/Massage_Exploded_View.jpg
+   alt: "exploded"
+  -url: /assets/images/Massage.jpg
+   image_path: /assets/images/Massage.jpg
+   alt: "close up"
+gallery3:
+  -url: /assets/images/Sample Spreadsheet.jpg
+   image_path: /assets/images/Sample Spreadsheet.jpg
+   alt: "spreadsheet"
 categories:
   - Uncategorized
 tags:
