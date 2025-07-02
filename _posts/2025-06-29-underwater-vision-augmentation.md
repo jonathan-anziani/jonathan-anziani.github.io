@@ -21,13 +21,7 @@ gallery:
 
 This underwater vision assistance device was designed in a team of twelve to allow commercial divers see underwater in low-light, high-particulate situations.
 
-![before ]({{ "" | relative_url }})
-
-![after ]({{ " | relative_url }})
-
-
-{% raw %}{% include gallery id="gallery" class="full" %}{% endraw %}
-
+{% include gallery id="gallery" class="full" %}
 
 Two cameras, a screen, and a pair of lenses are housed in a waterproof aluminum case designed to mount onto the industry standard Kirby-Morgan diving helmet.
 
