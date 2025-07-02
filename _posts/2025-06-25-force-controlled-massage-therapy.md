@@ -10,6 +10,10 @@ categories:
 tags:
   - image
 last_modified_at: 2018-03-20T16:00:52-04:00
+gallery1:
+  - url: /assets/images/Marlin before.jpg
+    image_path: /assets/images/Marlin before.jpg
+    alt: "before"
 gallery:
   -url: /assets/images/massage moving.gif
    image_path: /assets/images/massage moving.gif
