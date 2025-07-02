@@ -21,4 +21,6 @@ Outside of engineering, I am a fire-performer specializing in contact staff, and
 <a href="https://www.linkedin.com/in/jonathan-anziani-101671201/" style="color:rgba(111,119,125,1)">
   Resume
 </a> <br>
-[LinkedIn](https://www.linkedin.com/in/jonathan-anziani-101671201/)
+<a href="https://www.linkedin.com/in/jonathan-anziani-101671201/" style="color:rgba(111,119,125,1)">
+  LinkedIn
+</a>
