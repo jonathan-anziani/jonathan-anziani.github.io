@@ -10,17 +10,6 @@ categories:
 tags:
   - image
 last_modified_at: 2018-03-20T16:00:52-04:00
-gallery2:
-  -url: /assets/images/Massage_Exploded_View.jpg
-   image_path: /assets/images/Massage_Exploded_View.jpg
-   alt: "exploded"
-  -url: /assets/images/Massage.jpg
-   image_path: /assets/images/Massage.jpg
-   alt: "close up"
-gallery3:
-  -url: /assets/images/Sample Spreadsheet.jpg
-   image_path: /assets/images/Sample Spreadsheet.jpg
-   alt: "spreadsheet"
 ---
 
 For MIT's Medical Device Design class, I worked in a team of seven to design a force-controlled automated massaging device that measures muscle stiffness in real-time.
