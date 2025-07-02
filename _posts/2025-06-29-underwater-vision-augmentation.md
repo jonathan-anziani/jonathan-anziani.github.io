@@ -14,7 +14,7 @@ gallery:
   - url: /assets/images/Marlin before.jpg
     image_path: /assets/images/Marlin before.jpg
     alt: "before"
-  - url: /assets/images/Marlin before.jpg
+  - url: /assets/images/marlin after.jpg
     image_path: /assets/images/marlin after.jpg
     alt: "after"
 ---
