@@ -12,18 +12,18 @@ tags:
 last_modified_at: 2018-03-20T16:00:52-04:00
 gallery:
   -url: /assets/images/massage moving.gif
-   imagepath: /assets/images/massage moving.gif
+   image_path: /assets/images/massage moving.gif
    alt: "device moving gif"
 gallery2:
   -url: /assets/images/Massage_Exploded_View.jpg
-   imagepath: /assets/images/Massage_Exploded_View.jpg
+   image_path: /assets/images/Massage_Exploded_View.jpg
    alt: "exploded"
   -url: /assets/images/Massage.jpg
-   imagepath: /assets/images/Massage.jpg
+   image_path: /assets/images/Massage.jpg
    alt: "close up"
 gallery3:
   -url: /assets/images/Sample Spreadsheet.jpg
-   imagepath: /assets/images/Sample Spreadsheet.jpg
+   image_path: /assets/images/Sample Spreadsheet.jpg
    alt: "spreadsheet"
 ---
 
