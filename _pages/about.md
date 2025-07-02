@@ -19,9 +19,5 @@ I am a Class of 2025 MIT graduate with a bachelor's degree in Mechanical Enginee
 
 Outside of engineering, I am a fire-performer specializing in contact staff, and if you're interested in that, check out the performances tab!
 
----
-links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://"
----
+[Resume](https://www.linkedin.com/in/jonathan-anziani-101671201/)
+[LinkedIn](https://www.linkedin.com/in/jonathan-anziani-101671201/)
