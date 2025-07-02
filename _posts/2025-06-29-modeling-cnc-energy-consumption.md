@@ -27,7 +27,7 @@ The model predicts the power and specific energy consumption for a timestep by r
 
 ![power and specific energy graph]({{ "/assets/images/Power and specific energy relation.jpg" | relative_url }})
 
-The full thesis with comparisons and sensitivity analyses can be found [here.](/assets/images/mm-header-overlay-black-filter.jpg)
+The full thesis with comparisons and sensitivity analyses can be found [here.](/assets/files/anziani-anzianij-bs-meche-2025-thesis.pdf)
 
 
 
