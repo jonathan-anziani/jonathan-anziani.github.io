@@ -1,0 +1,36 @@
+---
+title: "Performances"
+tagline: " "
+header:
+  overlay_image: /assets/images/Rocket.jpg
+  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
+  actions:
+---
+
+{% include video id="J8nSWOi1Zw4" provider="youtube" %}
+
+How I'd Kill - Cowboy Malfoy | MIT Spinning Arts February 2025
+
+{% include video id="J8nSWOi1Zw4" provider="youtube" %}
+
+Join the Club - Tilly Louise | MIT Spinning Arts November 2024
+
+{% include video id="KzsedfpV1vo" provider="youtube" %}
+
+Hind's Hall - Macklemore | MIT Spinning Arts September 2024
+
+{% include video id="SthLARdHbSM" provider="youtube" %}
+
+From the Start - Good Kid | MIT Spinning Arts February 2024
+
+{% include video id="PNmD10140P0" provider="youtube" %}
+
+Outliars and Hyppocrates - Will Wood | MIT Spinning Arts November 2023
+
+{% include video id="0qNDQf6rdvo" provider="youtube" %}
+
+Papercuts - Landon Conroy | MIT Spinning Arts April 2023
+
+{% include video id="KzsedfpV1vo" provider="youtube" %}
+
+Bad Dream Baby - Hippo Campus | MIT Spinning Arts November 2022
