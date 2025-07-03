@@ -2,7 +2,7 @@
 title: "Bulk Manufactured Yo-Yos"
 tagline: " "
 header:
-  overlay_image: /assets/images/Foot_Dorsiflexed_2985W.jpg
+  overlay_image: /assets/images/50 yoyos turned.jpg
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
   actions:
 categories:
