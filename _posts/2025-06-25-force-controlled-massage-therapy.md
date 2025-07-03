@@ -35,10 +35,10 @@ The device consists of three key components: a scissor lift-inspired mechanism t
 
 {% include gallery id="gallery2" class="full" %}
 
-I was primarily responsible for the load analysis of the structure and the power transmission design. For the load analysis, I modeled the yeilding and buckling failure criterion using a spreadsheet to easily tabulate and communicate the calculations to teammates and project mentors. For the power transmission, I calculated the stepper motor torque and speed requirements needed to replicate the motion and force measured from a massage clinician. With these specifications, I chose sufficient stepper motors for the linear stage and scissor lift and desgned a mounting part to integrate the motors into the rest of the system while preventing a structural collapse when reaching holding torque. A sample of these calculations are shown below
+I was primarily responsible for the load analysis of the structure and the power transmission design. For the load analysis, I modeled the yeilding and buckling failure criterion using a spreadsheet to easily tabulate and communicate the calculations to teammates and project mentors. For the power transmission, I calculated the stepper motor torque and speed requirements needed to replicate the motion and force measured from a massage clinician. With these specifications, I chose sufficient stepper motors for the linear stage and scissor lift and desgned a mounting part to integrate the motors into the rest of the system while preventing a structural collapse when reaching holding torque. A sample of these calculations are shown below.
 
 {% include gallery id="gallery3" class="full" %}
 
-More detailed design and testing for this device can be read here.
+
 
 
