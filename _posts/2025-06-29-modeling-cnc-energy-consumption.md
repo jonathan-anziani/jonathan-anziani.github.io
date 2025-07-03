@@ -12,20 +12,18 @@ tags:
   - image
 last_modified_at: 2018-03-20T16:00:52-04:00
 gallery:
-  -  url: /assets/images/toolpath generated.jpg
-     image_path: /assets/images/toolpath generated.jpg
-     alt:"toolpath generated"
+  - url: /assets/images/toolpath generated.jpg
+    image_path: /assets/images/toolpath generated.jpg
+    alt: "toolpath generated"
+
 gallery2:
-  -  url: /assets/images/before and after simulation.jpg
-     image_path: /assets/images/before and after simulation.jpg
-     alt: "before and after mesh"
+  - url: /assets/images/before and after simulation.jpg
+    image_path: /assets/images/before and after simulation.jpg
+    alt: "before and after mesh"
 gallery3:
   -  url: /assets/images/Power and specific energy relation.jpg
      image_path: /assets/images/Power and specific energy relation.jpg
      alt: "power and sec relation"
-
-
-    
 ---
 
 For my undergraduate thesis, I developed a G-code based program in MATLAB that simulates the material removal process and predicts the energy and power consumption required to machine a part. When analyzing a constant material removal rate milling operation, the average power and specific energy consumption prediction accuracy were shown to be 96.83% and 97.02% respectively.
