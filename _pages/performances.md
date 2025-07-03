@@ -4,7 +4,7 @@ title: "Performances"
 author_profile: false
 sidebar:
   - title: "Jonathan Anziani"
-    image: "/assets/images/bio-photo.jfif"
+    image: "/assets/images/spinner_bio.jpg"
     image_alt: "Jonathan Anziani"
     text: "**Prop Experience** <br>  Contact Staff <br> Double Contact Staff <br> Dragon Staff <br> Sword <br> <br> *Image Credit: [Michele Gabriele](https://www.instagram.com/labronic_mike/?hl=en)"
 ---
