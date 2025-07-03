@@ -12,8 +12,8 @@ tags:
   - image
 last_modified_at: 2018-03-20T16:00:52-04:00
 gallery:
-  - url: /assets/images/toolpath generated.jpg
-    image_path: /assets/images/toolpath generated.jpg
+  - url: /assets/images/toolpath_generated.jpg
+    image_path: /assets/images/toolpath_generated.jpg
     alt:"toolpath generated"
 gallery2:
   - url: /assets/images/before and after simulation.jpg
