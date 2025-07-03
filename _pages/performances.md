@@ -22,7 +22,7 @@ Join the Club - Tilly Louise | MIT Spinning Arts November 2024
 
 Hind's Hall - Macklemore | MIT Spinning Arts September 2024
 
-{% include video id="KzsedfpV1vo" provider="youtube" %}
+{% include video id="oTbtQjxRts8" provider="youtube" %}
 
 From the Start - Good Kid | MIT Spinning Arts February 2024
 
