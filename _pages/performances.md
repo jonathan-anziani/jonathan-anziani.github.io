@@ -1,10 +1,16 @@
 ---
+permalink: /performances/
 title: "Performances"
-tagline: " "
-header:
-  overlay_image: /assets/images/Rocket.jpg
-  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
-  actions:
+author_profile: false
+sidebar:
+  - title: "Jonathan Anziani"
+    image: "/assets/images/bio-photo.jfif"
+    image_alt: "Jonathan Anziani"
+    text: "**Prop Experience** <br>  Contact Staff <br> Double Contact Staff <br> Dragon Staff <br> Sword"
+    children:
+      title: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/jonathan-anziani-101671201/"
 ---
 
 {% include video id="J8nSWOi1Zw4" provider="youtube" %}
