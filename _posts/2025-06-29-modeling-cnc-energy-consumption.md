@@ -16,13 +16,13 @@ gallery:
      image_path: /assets/images/toolpath generated.jpg
      alt:"toolpath generated"
 gallery2:
-  - url: /assets/images/before and after simulation.jpg
-    image_path: /assets/images/before and after simulation.jpg
-    alt: "before and after mesh"
+  -  url: /assets/images/before and after simulation.jpg
+     image_path: /assets/images/before and after simulation.jpg
+     alt: "before and after mesh"
 gallery3:
-  - url: /assets/images/Power and specific energy relation.jpg
-    image_path: /assets/images/Power and specific energy relation.jpg
-    alt: "power and sec relation"
+  -  url: /assets/images/Power and specific energy relation.jpg
+     image_path: /assets/images/Power and specific energy relation.jpg
+     alt: "power and sec relation"
 
 
     
