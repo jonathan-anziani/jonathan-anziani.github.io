@@ -6,15 +6,11 @@ sidebar:
   - title: "Jonathan Anziani"
     image: "/assets/images/bio-photo.jfif"
     image_alt: "Jonathan Anziani"
-    text: "**Prop Experience** <br>  Contact Staff <br> Double Contact Staff <br> Dragon Staff <br> Sword"
-    children:
-      title: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/jonathan-anziani-101671201/"
+    text: "**Prop Experience** <br>  Contact Staff <br> Double Contact Staff <br> Dragon Staff <br> Sword <br> <br> *Image Credit: [Michele Gabriele](https://www.instagram.com/labronic_mike/?hl=en)"
 ---
 How I'd Kill - Cowboy Malfoy | MIT Spinning Arts February 2025
 
-{% include video id="J8nSWOi1Zw4" provider="youtube" %}
+{% include video id="AUykaavpa74" provider="youtube" %}
 
 Join the Club - Tilly Louise | MIT Spinning Arts November 2024
 
