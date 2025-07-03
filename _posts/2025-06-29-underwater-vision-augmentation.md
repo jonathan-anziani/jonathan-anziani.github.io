@@ -26,6 +26,13 @@ gallery2:
   - url: /assets/images/Marlin CAD back.png
     image_path: /assets/images/Marlin CAD back.png
     alt: "CAD back"
+gallery3:
+  - url: /assets/images/Mount front.jpg
+    image_path: /assets/images/Mount front.jpg
+    alt: "mount front"
+  - url: /assets/images/Mount back.png
+    image_path: /assets/images/Mount back.png
+    alt: "mount back"
 ---
 
 This underwater vision assistance device was designed in a team of twelve to allow commercial divers see underwater in low-light, high-particulate situations.
@@ -36,7 +43,9 @@ Two cameras, a screen, and a pair of lenses are housed in a waterproof aluminum 
 
 {% include gallery id="gallery2" class="full" %}
 
-I mostly focused on the mechanical design and fabrication of the prototype. For the final prototype, I designed a component mounting bracket that minimizes overall product size while still being removable and replacable. I also designed a faceplate that would fit snugly with the faceshield of the Kirby-Morgan helmet, improving visual clarity by reducing the water gap. Additionally, I assisted the electrical sub-team by testing and choosing the final cameras used in the prototype based on hardware compatability.
+I mostly focused on the mechanical design and fabrication of the prototype. For the final prototype, I designed a component mounting bracket that minimizes overall product size while still being removable and replacable. I also helped design the faceplate to would fit snugly with the faceshield of the Kirby-Morgan helmet, improving visual clarity by reducing the water gap. Additionally, I assisted the electrical sub-team by testing and choosing the final cameras used in the prototype based on hardware compatability.
+
+{% include gallery id="gallery3" class="full" %}
 
 More details including user testimonies from underwater testing at the Woods Hole Oceanographic Institution can be found in the product prototype presentation here.
 
