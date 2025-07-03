@@ -15,7 +15,6 @@ gallery:
   - url: /assets/images/toolpath generated.jpg
     image_path: /assets/images/toolpath generated.jpg
     alt: "toolpath generated"
-
 gallery2:
   - url: /assets/images/before and after simulation.jpg
     image_path: /assets/images/before and after simulation.jpg
