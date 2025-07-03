@@ -11,11 +11,11 @@ tags:
   - image
 last_modified_at: 2018-03-20T16:00:52-04:00
 gallery:
-  - url: /assets/images/mm-header-overlay-black-filter.jpg
-    image_path: /assets/images/mm-header-overlay-black-filter.jpg
+  - url: /assets/images/yoyo.jpg
+    image_path: /assets/images/yoyo.JPG
     alt: "single yoyos"
-  - url: /assets/images/mm-header-overlay-black-filter.jpg
-    image_path: /assets/images/mm-header-overlay-black-filter.jpg
+  - url: /assets/images/50 yoyos.jpg
+    image_path: /assets/images/50 yoyos.jpg
     alt: "50 yoyos"
 gallery2:
   - url: /assets/images/mm-header-overlay-black-filter.jpg
