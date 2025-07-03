@@ -40,7 +40,7 @@ I mostly focused on the mechanical design and fabrication of the prototype. For 
 
 More details including user testimonies from underwater testing at the Woods Hole Oceanographic Institution can be found in the product prototype presentation here.
 
-{% include video id="1037672930" provider="vimeo" %}
+{% include video id="1033163269" provider="vimeo" %}
 
 
 
