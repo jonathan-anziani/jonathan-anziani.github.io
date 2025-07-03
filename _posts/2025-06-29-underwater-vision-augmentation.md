@@ -39,6 +39,7 @@ Two cameras, a screen, and a pair of lenses are housed in a waterproof aluminum 
 I mostly focused on the mechanical design and fabrication of the prototype. For the final prototype, I designed a component mounting bracket that minimizes overall product size while still being removable and replacable. I also designed a faceplate that would fit snugly with the faceshield of the Kirby-Morgan helmet, improving visual clarity by reducing the water gap. Additionally, I assisted the electrical sub-team by testing and choosing the final cameras used in the prototype based on hardware compatability.
 
 More details including user testimonies from underwater testing at the Woods Hole Oceanographic Institution can be found in the product prototype presentation here.
+
 {% include video id="1954229927" provider="vimeo" %}
 
 
