@@ -18,11 +18,8 @@ gallery:
     image_path: /assets/images/50 yoyos.jpg
     alt: "50 yoyos"
 gallery2:
-  - url: /assets/images/mm-header-overlay-black-filter.jpg
-    image_path: /assets/images/mm-header-overlay-black-filter.jpg
-    alt: "CAM"
-  - url: /assets/images/mm-header-overlay-black-filter.jpg
-    image_path: /assets/images/mm-header-overlay-black-filter.jpg
+  - url: /assets/images/mold.jpg
+    image_path: /assets/images/mold.jpg
     alt: "Mold" 
 ---
 
