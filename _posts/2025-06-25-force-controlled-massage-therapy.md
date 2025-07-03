@@ -3,13 +3,9 @@ title: "Force-Controlled Massage Therapy"
 tagline: " "
 header:
   overlay_image: /assets/images/Foot_Dorsiflexed_2985W.jpg
-  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
   actions:
 categories:
   - Uncategorized
-tags:
-  - image
-last_modified_at: 2018-03-20T16:00:52-04:00
 gallery:
   - url: /assets/images/massage moving.gif
     image_path: /assets/images/massage moving.gif
