@@ -31,7 +31,7 @@ gallery3:
     image_path: /assets/images/Mount front.jpg
     alt: "mount front"
   - url: /assets/images/Mount back.png
-    image_path: /assets/images/Mount back.png
+    image_path: /assets/images/Mount back.jpg
     alt: "mount back"
 ---
 
