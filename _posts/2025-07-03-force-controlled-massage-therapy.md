@@ -2,7 +2,7 @@
 title: "Force-Controlled Massage Therapy"
 tagline: " "
 header:
-  overlay_image: /assets/images/Foot_Dorsiflexed_2985W.jpg
+  overlay_image: /assets/images/Massage.jpg
   actions:
 categories:
   - Uncategorized
