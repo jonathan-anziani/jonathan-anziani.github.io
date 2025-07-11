@@ -6,7 +6,7 @@ sidebar:
   - title: "Jonathan Anziani"
     image: "/assets/images/spinner_bio.jpg"
     image_alt: "Jonathan Anziani"
-    text: "**Prop Experience** <br>  Contact Staff <br> Double Contact Staff <br> Dragon Staff <br> Sword <br> <br> *Image Credit: [Michele Gabriele](https://www.instagram.com/labronic_mike/?hl=en)"
+    text: "**Prop Experience** <br>  Contact Staff <br> Double Contact Staff <br> Dragon Staff <br> Sword <br> <br> *Image Credit*: [Michele Gabriele](https://www.instagram.com/labronic_mike/?hl=en)"
 ---
 How I'd Kill - Cowboy Malfoy | MIT Spinning Arts February 2025
 
