@@ -39,13 +39,13 @@ gallery7:
 
 For my undergraduate thesis, I developed a G-code based program in MATLAB that simulates the material removal process and predicts the energy and power consumption required to CNC machine a part. The simulation was validated by comparing the simulated energy to that of a part in both aluminum and titanium, showing an energy prediction error of 2.11% and 3.48% respectively.
 
-{% include gallery id="gallery4" class="full" %}
+{% include gallery id="gallery4" class="full" caption="Machined validation part in titanium" %}
 
-{% include gallery id="gallery5" class="full" %}
+{% include gallery id="gallery5" class="full" caption="Empirical and predicted power vs time for machining the validation part in aluminum separated by different operations in the toolpath"%}
 
-{% include gallery id="gallery6" class="full" %}
+{% include gallery id="gallery6" class="full" caption="Empirical and predicted power vs time for machining the validation part in titanium separated by different operations in the toolpath"%}
 
-{% include gallery id="gallery7" class="full" %}
+{% include gallery id="gallery7" class="full" caption="Empirical and predicted energy vs time for aluminum (left) and titanium (right)"%}
 
 This program functions by first reconstructing the toolpath from the G-code.
 
