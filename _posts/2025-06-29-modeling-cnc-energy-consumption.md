@@ -20,8 +20,8 @@ gallery3:
      image_path: /assets/images/Power and specific energy relation.jpg
      alt: "power and sec relation"
 gallery4:
-  -  url: /assets/images/Power and specific energy relation.jpg
-     image_path: /assets/images/Power and specific energy relation.jpg
+  -  url: /assets/images/IMG_8644.jpg
+     image_path: /assets/images/IMG_8644.jpg
      alt: "Machined components in titanium"
 gallery5:
   -  url: /assets/images/al all.png
@@ -37,7 +37,7 @@ gallery7:
      alt: "Energy vs time graphs"
 ---
 
-For my undergraduate thesis, I developed a G-code based program in MATLAB that simulates the material removal process and predicts the energy and power consumption required to CNC machine a part. The simulation was validated by machining a part in both aluminum and titanium, showing an energy prediction error of 2.11% and 3.48% respectively.
+For my undergraduate thesis, I developed a G-code based program in MATLAB that simulates the material removal process and predicts the energy and power consumption required to CNC machine a part. The simulation was validated by comparing the simulated energy to that of a part in both aluminum and titanium, showing an energy prediction error of 2.11% and 3.48% respectively.
 
 {% include gallery id="gallery4" class="full" %}
 
